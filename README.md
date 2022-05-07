@@ -2,6 +2,7 @@
 
 - 🌱 Estudando Java
 - 😄 Pronomes: ela/dela 
+- Cursando Análise e Desenvolvimento de Sistemas
 <div align="center">
   <a href="https://github.com/gnofinho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gnofinho&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
