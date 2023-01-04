@@ -4,7 +4,6 @@
 - 😄 Pronomes: ela/dela 
 - Cursando Análise e Desenvolvimento de Sistemas
 <div align="center">
-  <img align="" alt="Lpic" height="180" style="border-radius:50px;" src="https://i.picasion.com/pic92/9354ff6c240c54deee5ac5334bfd7fa7.gif">
   <a href="https://github.com/gnofinho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gnofinho&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
