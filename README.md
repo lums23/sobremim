@@ -1,6 +1,6 @@
 ### Olá, mundo! Eu sou a Luana Mendes!
 
-- 🌱 Estudando Java
+- 🌱 Estudando Java e PHP;
 - 😄 Pronomes: ela/dela 
 - Cursando Análise e Desenvolvimento de Sistemas
 <div align="center">
@@ -9,6 +9,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lu-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+<img align="center" alt="Lu-Php" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
   <p>
   </p>
